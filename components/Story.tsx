@@ -35,8 +35,8 @@ export default function Story() {
 
             <div className="relative aspect-[3/4] overflow-hidden">
               <Image
-                src="https://images.unsplash.com/photo-1556909114-f6e7ad7d3136"
-                alt="Gaetano Brancato, Gründer von Il Rione Pizzeria"
+                src="https://images.unsplash.com/photo-1745031601376-51802da5ae5e"
+                alt="Pizzaiolo bei der Arbeit am Ofen"
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 42vw"
