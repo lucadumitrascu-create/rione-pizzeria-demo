@@ -59,7 +59,7 @@ export default function Method() {
                 size={36}
                 strokeWidth={1.5}
               />
-              <h3 className="font-playfair text-lg md:text-xl font-semibold text-mozzarella mb-2">
+              <h3 className="font-inter text-base md:text-lg font-semibold text-mozzarella mb-2 tracking-wide">
                 {m.title}
               </h3>
               <p className="text-mozzarella/50 text-sm leading-relaxed">

@@ -80,7 +80,7 @@ export default function Contact() {
                 <p className="font-semibold text-texto">Telefon</p>
                 <a
                   href="tel:+436763042032"
-                  className="text-2xl font-playfair font-bold text-texto hover:text-pomodoro transition-colors"
+                  className="text-2xl font-inter font-bold text-texto hover:text-pomodoro transition-colors tabular-nums"
                 >
                   +43 676 3042032
                 </a>
