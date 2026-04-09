@@ -9,11 +9,11 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        pomodoro: "#8B2323",
+        pomodoro: "#1E3A5F",
         mozzarella: "#F5F0E1",
         olio: "#D4A574",
-        forno: "#1A1410",
-        texto: "#2B1810",
+        forno: "#0F1A2E",
+        texto: "#1A2A40",
         basilico: "#4A6741",
       },
       fontFamily: {
